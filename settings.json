@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Hsohawk.aternos.me",
-    "port": 25942,
+    "ip": "BRsmpp.aternos.me",
+    "port": 42621,
     "version": "1.20.1",
     "try-creative": false
   },
